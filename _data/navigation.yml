@@ -1,10 +1,15 @@
 # main links
 main:
   - title: "최병욱"
+    url: "https://velog.io/@qowlz"
   - title: "전규리"
-  - title: "이승훈"
+    url: "https://velog.io/@rlczl"
+  - title: "장진영"
+    url: "https://velog.io/@zinzin22"
   - title: "한현준"
+    url: "https://damagedcode101.blogspot.com"
   - title: "문다연"
+    url: "https://velog.io/@dayo2n"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
