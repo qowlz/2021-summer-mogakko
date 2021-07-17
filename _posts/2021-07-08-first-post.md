@@ -3,9 +3,9 @@ title:  "[모각코] 1회차 목표"
 excerpt: ""
 
 categories:
-  - Blog
+  - 모각코
 tags:
-  - [Blog, jekyll]
+  - [Blog, jekyll, 모각코]
 
 toc: true
 toc_sticky: true
